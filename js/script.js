@@ -7,13 +7,6 @@ burger.addEventListener('click', () => {
     navbar.classList.toggle('h-nav-resp');
 })
 
-
-
-
-
-
-
-
 const counters = document.querySelectorAll('.counter');
 const speed = 200;
 
