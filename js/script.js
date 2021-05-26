@@ -32,4 +32,4 @@ counters.forEach(counter => {
         }
     }
     updateCount();
-});
+})
